@@ -24,11 +24,19 @@ npm run lint
 
 
 //引用图片
+
+
 ![alt text](/src/assets/preview/image.png)
+
+
 
 ![alt text](/src/assets/preview/动画.gif)
 
+
 ![alt text](/src/assets/preview/动画2.gif)
+
+
+
 
 ![alt text](/src/assets/preview/动画3.gif)
 
